@@ -13,7 +13,7 @@ The project aims to address the growing need for accessible and quality educatio
 By providing free courses, the website will help to reduce the financial barriers to accessing cybersecurity education and training. 
 The project also aims to improve cybersecurity practices by empowering learners to develop the skills and knowledge needed to succeed in the cybersecurity industry.
 
-# Note:-
+# Note
 This "Cyber_Nexus" website is in the prototype stage only so, there is no course contents are uploaded.
 
 # Azure Services
@@ -32,6 +32,12 @@ Website Link :- https://cybernexus.z13.web.core.windows.net/
   * One can find this chatbot in the "Contact Us" page, right side of the address and social media links.
   * This chatbot will respond to the user
   
+# Demo Video
+Demo Video link :- https://drive.google.com/file/d/1tsKa7aDZr2R139VC0KBVAG5uYQVLEA-J/view?usp=sharing
+
+# Help?
+If the demo video link doesn't work, then try to open through the "Drive" instead of opening using the "web browser".
+
 
 
 
