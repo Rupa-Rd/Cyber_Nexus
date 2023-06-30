@@ -24,7 +24,7 @@ I used two Azure services for this project
 # Azure Web Apps
 I uploaded all the code files which are related to this project in a "Azure Web Container" to deploy them and received a globally visible link for the website.
 You can get that from the right side of this Readme.md file 👉.
-Website Link :- https://cybernexus.z13.web.core.windows.net/
+Website Link :- rupa-rd.github.io/Cyber_Nexus/
 
 # Azure ChatBot Services
   * I used "Azure chatbot services" to deploy the chatbot into Cyber_nexus website. 
